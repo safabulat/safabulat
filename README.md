@@ -21,7 +21,7 @@ of shipped as audio, and the landing pages are plain HTML with no external reque
 
 | | |
 |---|---|
-| **SEDYE!** | Co-op physics comedy: two players carry a stretcher through places a stretcher was never meant to go. *In development.* |
+| **Mind the Patient** | Co-op physics comedy: two players carry a stretcher through places a stretcher was never meant to go. *In development.* |
 | **HOLMGANG** | Medieval melee battle royale with classes and parrying that costs you something. *Prototype.* |
 | **Vine Out** | A colour-match puzzle — pull a tangled root out through a matching exit without trapping the ones behind it. *In development, mobile.* |
 | **HADAL** | Four-player deep-sea salvage horror. *On hold.* |
