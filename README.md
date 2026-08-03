@@ -26,6 +26,13 @@ of shipped as audio, and the landing pages are plain HTML with no external reque
 | **Vine Out** | A colour-match puzzle — pull a tangled root out through a matching exit without trapping the ones behind it. *In development, mobile.* |
 | **HADAL** | Four-player deep-sea salvage horror. *On hold.* |
 
+### Open source
+
+**[QuietOverlay](https://github.com/safabulat/quiet-overlay)** — the shell underneath the desk toys,
+extracted. A whole-screen macOS overlay window that clicks fall straight through, except where you say
+they should not, and that can never steal keyboard focus from the app you were typing in. Swift package,
+macOS 13+, MIT.
+
 ### Elsewhere
 
 - Support for every app and game above: **safabulatdev@icloud.com**
