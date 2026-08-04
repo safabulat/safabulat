@@ -14,8 +14,8 @@ of shipped as audio, and the landing pages are plain HTML with no external reque
 | | |
 |---|---|
 | **[Deskestra](https://safabulat.github.io/deskestra-site/)** | A piano, drum kit, bass, guitar, kalimba, metronome and tuner in your menu bar. Plays while another app has focus. The app and the piano are free. *Coming to the Mac App Store.* |
-| **[Deskick](https://safabulat.github.io/deskick-site/)** | A football goal and a ball floating over your whole desktop. Clicks fall through everywhere except on the ball. *Coming to the Mac App Store.* |
-| **Hoop Hoop** | The same quiet overlay, with a basketball hoop. *In development.* |
+| **[Kick Kick](https://safabulat.github.io/kickkick-site/)** | A football goal and a ball floating over your whole desktop. Clicks fall through everywhere except on the ball. *Coming to the Mac App Store.* |
+| **[Hoop Hoop](https://safabulat.github.io/hoophoop-site/)** | The same quiet overlay, with a basketball hoop. *In development.* |
 
 ### Games — Godot & Unity
 
