@@ -12,7 +12,7 @@ of shipped as audio, and the landing pages are plain HTML with no external reque
 ### Midiboard — iPhone, Swift + UIKit
 
 **[Midiboard](https://midiboard.bulatapps.com/)** — an iPhone Bluetooth MIDI controller you
-build yourself. *Coming to the App Store.*
+build yourself. *[On the App Store](https://apps.apple.com/app/id6801598625).*
 
 Drop pads, keys, chord buttons, wheels, faders, XY pads and step sequencers onto a grid, drag each one
 where your hand actually goes, save the screen, and flip between screens with one tap while the song is
@@ -31,9 +31,9 @@ run without a simulator.
 
 | | |
 |---|---|
-| **[Deskestra](https://deskestra.bulatapps.com/)** | A piano, drum kit, bass, guitar, kalimba, metronome and tuner in your menu bar. Plays while another app has focus. The app and the piano are free. *Coming to the Mac App Store.* |
-| **[Kick Kick](https://kickkick.bulatapps.com/)** | A football goal and a ball floating over your whole desktop. Clicks fall through everywhere except on the ball. *Coming to the Mac App Store.* |
-| **[Hoop Hoop](https://hoophoop.bulatapps.com/)** | The same quiet overlay, with a basketball hoop. *Coming to the Mac App Store.* |
+| **[Deskestra](https://deskestra.bulatapps.com/)** | A piano, drum kit, bass, guitar, kalimba, metronome and tuner in your menu bar. Plays while another app has focus. The app and the piano are free. *[On the Mac App Store](https://apps.apple.com/app/id6801593827).* |
+| **[Kick Kick](https://kickkick.bulatapps.com/)** | A football goal and a ball floating over your whole desktop. Clicks fall through everywhere except on the ball. *[On the Mac App Store](https://apps.apple.com/app/id6801598144).* |
+| **[Hoop Hoop](https://hoophoop.bulatapps.com/)** | The same quiet overlay, with a basketball hoop. *[On the Mac App Store](https://apps.apple.com/app/id6801598264).* |
 
 ### Games — Godot & Unity
 
