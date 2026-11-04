@@ -7,11 +7,11 @@ way — and **co-op games** where the other player is the interesting part of th
 No frameworks, no accounts, no analytics, no network code. The sounds are synthesised at launch instead
 of shipped as audio, and the landing pages are plain HTML with no external requests at all.
 
-**[safabulat.github.io](https://safabulat.github.io/)** — everything in one place.
+**[bulatapps.com](https://bulatapps.com/)** — everything in one place.
 
 ### Midiboard — iPhone, Swift + UIKit
 
-**[Midiboard](https://safabulat.github.io/midiboard-site/)** — an iPhone Bluetooth MIDI controller you
+**[Midiboard](https://midiboard.bulatapps.com/)** — an iPhone Bluetooth MIDI controller you
 build yourself. *Coming to the App Store.*
 
 Drop pads, keys, chord buttons, wheels, faders, XY pads and step sequencers onto a grid, drag each one
@@ -25,15 +25,15 @@ what makes sliding from one key to the next possible at all — and everything w
 from note mapping to the clock's arithmetic, is pure Swift with no UIKit in it and covered by tests that
 run without a simulator.
 
-[![Midiboard](https://safabulat.github.io/midiboard-site/img/surface.jpg)](https://safabulat.github.io/midiboard-site/)
+[![Midiboard](https://midiboard.bulatapps.com/img/surface.jpg)](https://midiboard.bulatapps.com/)
 
 ### Desk toys & instruments — macOS, Swift + AppKit
 
 | | |
 |---|---|
-| **[Deskestra](https://safabulat.github.io/deskestra-site/)** | A piano, drum kit, bass, guitar, kalimba, metronome and tuner in your menu bar. Plays while another app has focus. The app and the piano are free. *Coming to the Mac App Store.* |
-| **[Kick Kick](https://safabulat.github.io/kickkick-site/)** | A football goal and a ball floating over your whole desktop. Clicks fall through everywhere except on the ball. *Coming to the Mac App Store.* |
-| **[Hoop Hoop](https://safabulat.github.io/hoophoop-site/)** | The same quiet overlay, with a basketball hoop. *Coming to the Mac App Store.* |
+| **[Deskestra](https://deskestra.bulatapps.com/)** | A piano, drum kit, bass, guitar, kalimba, metronome and tuner in your menu bar. Plays while another app has focus. The app and the piano are free. *Coming to the Mac App Store.* |
+| **[Kick Kick](https://kickkick.bulatapps.com/)** | A football goal and a ball floating over your whole desktop. Clicks fall through everywhere except on the ball. *Coming to the Mac App Store.* |
+| **[Hoop Hoop](https://hoophoop.bulatapps.com/)** | The same quiet overlay, with a basketball hoop. *Coming to the Mac App Store.* |
 
 ### Games — Godot & Unity
 
